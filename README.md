@@ -1,18 +1,10 @@
 # Man-VS-Villacidro
 Just a game made with Python
 
--Open your terminal
+# How to run it
 
+- Install Python and Pygame
 
+- Clone the repository
 
--Clone the repository with git
-
-
-
-
--Install pygame and python
-
-
-
-
--In the project folder use "python './Man VS Villacidro.py' "
+- Run the Python script inside the project folder
